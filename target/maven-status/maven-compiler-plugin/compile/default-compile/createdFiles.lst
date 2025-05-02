@@ -1,0 +1,6 @@
+net\javaguides\controller\CourseController.class
+net\javaguides\service\CourseService.class
+net\javaguides\controller\PingController.class
+net\javaguides\Application.class
+net\javaguides\dto\Course.class
+net\javaguides\StreamLambdaHandler.class
